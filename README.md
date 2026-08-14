@@ -55,7 +55,7 @@
 
 </div>
 
-> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. They're embedded as plain images here for maximum compatibility — `stats-light.svg`, `langs-light.svg` and `trophies-light.svg` are also included in this repo if you want to manually wire up `<picture>` dark/light switching for them yourself later. Swap in your real numbers any time by re-running the generator or editing the SVG values directly.
+
 
 <br>
 
@@ -75,18 +75,13 @@
 
 </div>
 
-> The contribution graph above pulls from a live third-party renderer, and the snake animation is generated daily by `github-snake.yml` in this repo (see below) and pushed to the `output` branch — no rate-limited card services required for anything else on this page.
+
 
 <br>
 
 
 <br><br>
 
-<a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/GitHub-MZLoop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=7c3aed" alt="GitHub"></a>
-<a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/Email-mzffup%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="Email"></a>
-<a href="https://github.com/MZLoop?tab=repositories"><img src="https://img.shields.io/badge/Flutter-Specialist-a855f7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a0b2e" alt="Flutter"></a>
-
-<img src="https://komarev.com/ghpvc/?username=MZLoop&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views">
 
 </div>
 
@@ -97,9 +92,12 @@
 ## 🤝 Connect With Me
 
 <div align="center">
+<a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/GitHub-MZLoop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=7c3aed" alt="GitHub"></a>
+<a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/Email-mzffup%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="Email"></a>
+<a href="https://github.com/MZLoop?tab=repositories"><img src="https://img.shields.io/badge/Flutter-Specialist-a855f7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a0b2e" alt="Flutter"></a>
 
-<a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6ec7?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/-GitHub-a855f7?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<img src="https://komarev.com/ghpvc/?username=MZLoop&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views">
+
 
 </div>
 
