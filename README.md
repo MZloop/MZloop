@@ -5,6 +5,13 @@
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
   <img src="banner.svg?v=1" alt="MIYAZ — Lead Software Engineer & Flutter Specialist" width="100%">
 </picture>
+</div>
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
 
 
@@ -32,7 +39,7 @@
 </tr>
 </table>
 
-
+<br/>
 
 <div align="center">
 
