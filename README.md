@@ -8,73 +8,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 920" width="1280" height="920" role="img" aria-label="MIYAZ - Lead Software Engineer and Flutter Specialist banner">
   <title>MIYAZ — Lead Software Engineer &amp; Flutter Specialist</title>
 
-  <defs>
-    <clipPath id="outerClip"><path d="M28,0 h1224 a28,28 0 0 1 28,28 v864 a28,28 0 0 1 -28,28 h-1224 a28,28 0 0 1 -28,-28 v-864 a28,28 0 0 1 28,-28 z"/></clipPath>
-    <clipPath id="heroClip"><path d="{HERO_CLIP_PATH}"/></clipPath>
 
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1a0b2e"/>
-      <stop offset="45%" stop-color="#3a0ca3"/>
-      <stop offset="75%" stop-color="#2d0a4e"/>
-      <stop offset="100%" stop-color="#ff2d95" stop-opacity="0.55"/>
-      <animate attributeName="x1" values="0%;15%;0%" dur="14s" repeatCount="indefinite"/>
-      <animate attributeName="y2" values="100%;85%;100%" dur="14s" repeatCount="indefinite"/>
-    </linearGradient>
-
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff6ec7"><animate attributeName="stop-color" values="#ff6ec7;#a855f7;#ff6ec7" dur="5s" repeatCount="indefinite"/></stop>
-      <stop offset="50%" stop-color="#c026d3"><animate attributeName="stop-color" values="#c026d3;#7c3aed;#c026d3" dur="5s" repeatCount="indefinite"/></stop>
-      <stop offset="100%" stop-color="#a855f7"><animate attributeName="stop-color" values="#a855f7;#ff6ec7;#a855f7" dur="5s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-
-    <linearGradient id="pinkPurple" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ff6ec7"/>
-      <stop offset="100%" stop-color="#7c3aed"/>
-    </linearGradient>
-
-    <linearGradient id="scanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ff9ee8" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ff9ee8" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#ff9ee8" stop-opacity="0"/>
-    </linearGradient>
-
-    <linearGradient id="fullScanGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#7ef9ff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#7ef9ff" stop-opacity="0.22"/>
-      <stop offset="100%" stop-color="#7ef9ff" stop-opacity="0"/>
-    </linearGradient>
-
-    <radialGradient id="orbGrad">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
-    </radialGradient>
-
-    <radialGradient id="avatarRingGrad">
-      <stop offset="70%" stop-color="#ff6ec7" stop-opacity="0"/>
-      <stop offset="90%" stop-color="#ff6ec7" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
-    </radialGradient>
-
-    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="bigGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="14" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="neonGlow" x="-120%" y="-120%" width="340%" height="340%">
-      <feGaussianBlur stdDeviation="3" result="b1"/>
-      <feGaussianBlur stdDeviation="9" result="b2"/>
-      <feGaussianBlur stdDeviation="18" result="b3"/>
-      <feMerge>
-        <feMergeNode in="b3"/><feMergeNode in="b2"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
-    </filter>
-  </defs>
 
 
   <style>
