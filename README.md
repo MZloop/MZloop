@@ -1,3 +1,4 @@
+<img width="495" height="230" alt="langs" src="https://github.com/user-attachments/assets/c904e894-ea0d-4f90-a738-ae3ceeddc8ef" />
 <div align="center">
 
 <picture>
@@ -8,7 +9,15 @@
 
 <br>
 
-<img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220">
+<img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220"><img width="495" height="230" alt="stats-light" src="https://github.com/user-attachments/assets/b0a2eaf5-1c16-403c-8086-3b1d08eaec04" /><img width="495" height="230" alt="langs-light" src="https://github.com/user-attachments/assets/8b2ece38-d115-41bf-a9fc-cb703d4be214" />
+<img width="982" height="204" alt="trophies-light" src="https://github.com/user-attachments/assets/0df77676-d860-414f-8b4e-5bd4c35f3229" />
+<img width="982" height="204" alt="trophies" src="https://github.com/user-attachments/assets/55626ed0-1559-4e89-80fd-56350f4b80ed" />
+<img width="1280" height="920" alt="banner" src="https://github.com/user-attachments/assets/0ddab8ea-18fa-4ab2-956b-e9cfba2a7fba" />
+<img width="1280" height="920" alt="banner-light" src="https://github.com/user-attachments/assets/e3556bdb-4b4b-420b-b948-9b4b538077ec" />
+<img width="360" height="760" alt="lanyard" src="https://github.com/user-attachments/assets/39f02630-6cde-4e68-bad6-f40b205d3c18" />
+<img width="360" height="760" alt="lanyard-light" src="https://github.com/user-attachments/assets/9960e708-53dd-4184-b20d-6fa5fe0f23ab" />
+<img width="495" height="230" alt="stats" src="https://github.com/user-attachments/assets/35e59915-f752-42cb-9922-286528bdbea9" />
+
 
 <br><br>
 
