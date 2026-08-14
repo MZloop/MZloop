@@ -8,25 +8,13 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="lanyard.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="lanyard-light.svg?v=1">
-  <img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220">
-</picture>
+<img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220">
 
 <br><br>
 
 <a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/GitHub-MZLoop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=7c3aed" alt="GitHub"></a>
 <a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/Email-mzffup%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="Email"></a>
 <a href="https://github.com/MZLoop?tab=repositories"><img src="https://img.shields.io/badge/Flutter-Specialist-a855f7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a0b2e" alt="Flutter"></a>
-<img width="495" height="230" alt="langs" src="https://github.com/user-attachments/assets/e059c27f-c234-47be-9c73-258625eece9b" /><img width="982" height="204" alt="trophies-light" src="https://github.com/user-attachments/assets/658f8758-28fa-463a-abf6-99c401cd4eec" />
-<img width="982" height="204" alt="trophies" src="https://github.com/user-attachments/assets/8214fc05-f893-4a9a-aacf-9e749e206cfc" />
-<img width="1280" height="920" alt="banner" src="https://github.com/user-attachments/assets/9e0b94ef-3c30-4452-b71a-c903bd56c91d" />
-<img width="1280" height="920" alt="banner-light" src="https://github.com/user-attachments/assets/e6e7210a-6f28-4323-9381-a3cf0624fd72" />
-<img width="360" height="760" alt="lanyard" src="https://github.com/user-attachments/assets/8ed61ff2-4e04-4a01-bc02-a5574ebb8b93" />
-<img width="360" height="760" alt="lanyard-light" src="https://github.com/user-attachments/assets/55f81ddd-cd47-4114-b98d-1e89f9b34c92" />
-<img width="495" height="230" alt="stats" src="https://github.com/user-attachments/assets/261ee3e7-e68b-4d59-99c8-3581acc0b8ec" />
-<img width="495" height="230" alt="stats-light" src="https://github.com/user-attachments/assets/ebc72fc0-3230-46dd-9c5d-173faab21a16" />
 
 <img src="https://komarev.com/ghpvc/?username=MZLoop&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views">
 
@@ -71,28 +59,16 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="stats.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="stats-light.svg?v=1">
-  <img src="stats.svg?v=1" alt="MIYAZ's GitHub Stats" width="48%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="langs.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="langs-light.svg?v=1">
-  <img src="langs.svg?v=1" alt="Most Used Languages" width="48%">
-</picture>
+<img src="stats.svg?v=1" alt="MIYAZ's GitHub Stats" width="48%">
+<img src="langs.svg?v=1" alt="Most Used Languages" width="48%">
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="trophies.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="trophies-light.svg?v=1">
-  <img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
-</picture>
+<img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
 
 </div>
 
-> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. Swap in your real numbers any time by re-running the generator or editing the values directly.
+> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. They're embedded as plain images here for maximum compatibility — `stats-light.svg`, `langs-light.svg` and `trophies-light.svg` are also included in this repo if you want to manually wire up `<picture>` dark/light switching for them yourself later. Swap in your real numbers any time by re-running the generator or editing the SVG values directly.
 
 <br>
 
@@ -100,11 +76,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=default&hide_border=true&bg_color=ffffff&color=6b21a8&line=ec4899&point=9333ea">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7" alt="Contribution Activity Graph" width="90%">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7" alt="Contribution Activity Graph" width="90%">
 
 <br><br>
 
@@ -152,4 +124,4 @@
 
 <sub>Built with SMIL-animated SVGs — no JavaScript, renders natively on GitHub. ✨</sub>
 
-</div><img width="495" height="230" alt="langs-light" src="https://github.com/user-attachments/assets/7e7aff87-b84d-4f00-89d4-ea00fd7af2c0" />
+</div>
