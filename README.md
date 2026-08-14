@@ -5,6 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
   <img src="banner.svg?v=1" alt="MIYAZ — Lead Software Engineer & Flutter Specialist" width="100%">
 </picture>
+
 </div>
 
 <br/>
@@ -13,27 +14,50 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-
-
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220">
 
 </td>
-<td width="62%" align="middle">
+<td width="62%" valign="middle">
 
-### 🌸 My Anime Creations
+<h3 align="center">🌸 My Anime Creations</h3>
 
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
+<table width="100%">
+<tr>
+<th align="left">🎌 Project</th>
+<th align="center">💻 Tech</th>
+<th align="center">⭐</th>
+</tr>
+<tr>
+<td><a href="https://github.com/Meghamittal0920/Naruto-SageMode">🍥 Naruto — Sage Mode</a></td>
+<td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td align="center">25</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Meghamittal0920/Zoro-King-of-hell">⚔️ Zoro — King of Hell</a></td>
+<td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-">🌙 Demon Slayer — Yoriichi & Kokushibo</a></td>
+<td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Meghamittal0920/JJK-Sakuna">👁️ JJK — Sukuna</a></td>
+<td align="center"><code>HTML</code> <code>CSS</code> <code>JS</code></td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><a href="https://github.com/Meghamittal0920/One-Piece-3D-Website">🏴‍☠️ One Piece 3D Website</a></td>
+<td align="center"><code>TypeScript</code> <code>Three.js</code></td>
+<td align="center">2</td>
+</tr>
+</table>
 
 <br/>
 
-> 💗 *"I don't watch anime, I code anime."*
+<p align="center">💗 <i>"I don't watch anime, I code anime."</i></p>
 
 </td>
 </tr>
@@ -41,7 +65,6 @@
 
 <br/>
 
-<div align="center">
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -54,8 +77,6 @@
 <img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
 
 </div>
-
-
 
 <br>
 
@@ -75,36 +96,16 @@
 
 </div>
 
-
-
 <br>
-
-
-<br><br>
-
-
-</div>
-
-<br>
-
-
 
 ## 🤝 Connect With Me
 
 <div align="center">
+
 <a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/GitHub-MZLoop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=7c3aed" alt="GitHub"></a>
 <a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/Email-mzffup%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="Email"></a>
 <a href="https://github.com/MZLoop?tab=repositories"><img src="https://img.shields.io/badge/Flutter-Specialist-a855f7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a0b2e" alt="Flutter"></a>
 
 <img src="https://komarev.com/ghpvc/?username=MZLoop&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views">
-
-
-</div>
-
-<br>
-
-<div align="center">
-
-<sub>Built with SMIL-animated SVGs — no JavaScript, renders natively on GitHub. ✨</sub>
 
 </div>
