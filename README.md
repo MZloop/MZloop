@@ -92,56 +92,7 @@
 
 <br>
 
-## 🚀 About Me
 
-- 🔭 I'm currently **Lead Software Engineer**, architecting cross-platform mobile experiences with **Flutter & Dart**
-- 🧱 I obsess over **Clean Architecture**, **BLoC**/**Riverpod**, and code that scales past the demo
-- 📱 I bridge the gap between Flutter and native **Android (Kotlin)** / **iOS (Swift)** when the platform demands it
-- ⚙️ I automate everything I can with **GitHub Actions & CI/CD** — if I do it twice, it becomes a pipeline
-- 🔥 I ship apps backed by **Firebase**, **REST APIs**, and backends in **Python** & **Node.js**
-- 🎨 I care as much about **UI/UX and custom animations** as I do about the architecture underneath
-- 🌱 Currently exploring deeper **performance optimization** and native rendering pipelines
-- 💬 Ask me about Flutter, clean architecture, or squeezing 60fps out of a janky ListView
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Figma](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-<br>
-
-
-## 💼 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| **[Flow Finance](https://github.com/MZLoop)** | Cross-platform personal finance tracker with offline-first sync and animated insights dashboard | `Flutter` `BLoC` `Firebase` |
-| **[SnapOrder](https://github.com/MZLoop)** | On-demand delivery app with live tracking, native map integration on iOS & Android | `Flutter` `Riverpod` `Kotlin` `Swift` |
-| **[DevPulse CLI](https://github.com/MZLoop)** | Developer productivity CLI that syncs CI/CD pipeline health straight to your terminal | `Python` `GitHub Actions` |
-| **[ChatMesh](https://github.com/MZLoop)** | Real-time chat SDK with a clean-architecture core, built for easy adoption in any Flutter app | `Flutter` `Dart` `REST APIs` |
-
-</div>
-
-> Replace the placeholder links above with your real repositories — the table is intentionally simple markdown so it's easy to keep up to date by hand.
-
-<br>
 
 ## 🤝 Connect With Me
 
