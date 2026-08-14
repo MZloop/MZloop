@@ -42,6 +42,43 @@
 <br/>
 
 <div align="center">
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="stats.svg?v=1" alt="MIYAZ's GitHub Stats" width="48%">
+<img src="langs.svg?v=1" alt="Most Used Languages" width="48%">
+
+<br><br>
+
+<img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
+
+</div>
+
+> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. They're embedded as plain images here for maximum compatibility — `stats-light.svg`, `langs-light.svg` and `trophies-light.svg` are also included in this repo if you want to manually wire up `<picture>` dark/light switching for them yourself later. Swap in your real numbers any time by re-running the generator or editing the SVG values directly.
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7" alt="Contribution Activity Graph" width="90%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg" alt="GitHub contribution snake animation" width="90%">
+</picture>
+
+</div>
+
+> The contribution graph above pulls from a live third-party renderer, and the snake animation is generated daily by `github-snake.yml` in this repo (see below) and pushed to the `output` branch — no rate-limited card services required for anything else on this page.
+
+<br>
+
 
 <br><br>
 
@@ -88,42 +125,6 @@
 
 <br>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="stats.svg?v=1" alt="MIYAZ's GitHub Stats" width="48%">
-<img src="langs.svg?v=1" alt="Most Used Languages" width="48%">
-
-<br><br>
-
-<img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
-
-</div>
-
-> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. They're embedded as plain images here for maximum compatibility — `stats-light.svg`, `langs-light.svg` and `trophies-light.svg` are also included in this repo if you want to manually wire up `<picture>` dark/light switching for them yourself later. Swap in your real numbers any time by re-running the generator or editing the SVG values directly.
-
-<br>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7" alt="Contribution Activity Graph" width="90%">
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg">
-  <img src="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg" alt="GitHub contribution snake animation" width="90%">
-</picture>
-
-</div>
-
-> The contribution graph above pulls from a live third-party renderer, and the snake animation is generated daily by `github-snake.yml` in this repo (see below) and pushed to the `output` branch — no rate-limited card services required for anything else on this page.
-
-<br>
 
 ## 💼 Featured Projects
 
