@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 982 204" width="982" height="204">
+  <title>MIYAZ — GitHub Trophies</title>
+  
+    <g transform="translate(12,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="0.25s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="0.25s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="0.75s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">A+</text>
+        <g><path d="M74.0,56 l6.38,13.2 l14.520000000000001,1.98 l-10.559999999999999,10.120000000000001 l2.42,14.3 l-12.76,-6.82 l-12.76,6.82 l2.42,-14.3 l-10.559999999999999,-10.120000000000001 l14.520000000000001,-1.98 Z" fill="#ff6ec7"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">340</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Stars</text>
+        <clipPath id="tcClip0"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip0)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="1.25s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(174,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="0.4s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="0.4s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="0.9s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">S</text>
+        <g><circle cx="74.0" cy="78" r="8.8" fill="none" stroke="#ff6ec7" stroke-width="3.96"/><line x1="52.0" y1="78" x2="65.2" y2="78" stroke="#ff6ec7" stroke-width="3.96"/><line x1="82.8" y1="78" x2="96.0" y2="78" stroke="#ff6ec7" stroke-width="3.96"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">2.1k</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Commits</text>
+        <clipPath id="tcClip1"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip1)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="1.4s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(336,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="0.55s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="0.55s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="1.05s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">A+</text>
+        <g><circle cx="63.0" cy="64.8" r="3.52" fill="#ff6ec7"/><circle cx="63.0" cy="91.2" r="3.52" fill="#ff6ec7"/><circle cx="85.0" cy="64.8" r="3.52" fill="#ff6ec7"/><path d="M63.0,68.32 v19.36" stroke="#ff6ec7" stroke-width="2.6399999999999997"/><path d="M63.0,91.2 h13.2 a6.6,6.6 0 0 0 6.6,-6.6 v-6.6" stroke="#ff6ec7" stroke-width="2.6399999999999997" fill="none"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">165</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Pull Requests</text>
+        <clipPath id="tcClip2"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip2)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="1.55s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(498,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="0.7s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="0.7s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">A</text>
+        <g><rect x="58.6" y="65.9" width="30.799999999999997" height="24.200000000000003" rx="3.3" fill="none" stroke="#ff6ec7" stroke-width="3.3"/><line x1="58.6" y1="74.7" x2="89.4" y2="74.7" stroke="#ff6ec7" stroke-width="2.2"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">42</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Repositories</text>
+        <clipPath id="tcClip3"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip3)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="1.7s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(660,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="0.85s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="0.85s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="1.35s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">A</text>
+        <g><circle cx="74.0" cy="70.3" r="7.699999999999999" fill="#ff6ec7"/><path d="M60.8,91.2 a13.2,11.0 0 0 1 26.4,0 Z" fill="#ff6ec7"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">180</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Followers</text>
+        <clipPath id="tcClip4"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip4)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="1.85s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(822,12)">
+      <g opacity="0" transform="scale(0.6)" style="transform-origin:74.0px 90.0px">
+        <animate attributeName="opacity" values="0;1" begin="1.0s" dur="0.45s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="scale" values="0.6;1.08;1" keyTimes="0;0.7;1" begin="1.0s" dur="0.5s" fill="freeze" calcMode="spline" keySplines="0.3 0.6 0.3 1;0.3 0.6 0.3 1"/>
+        <rect x="0" y="0" width="148" height="180" rx="16" fill="#1c0e30" stroke="#7c3aed" stroke-width="1.3"/>
+        <rect x="10" y="10" width="128" height="26" rx="13" fill="#ffd166" fill-opacity="0.15" stroke="#ffd166" stroke-width="1">
+          <animate attributeName="fill-opacity" values="0.15;0.35;0.15" dur="2.4s" begin="1.5s" repeatCount="indefinite"/>
+        </rect>
+        <text x="74.0" y="28" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="800" fill="#ffd166">S</text>
+        <g><path d="M60.8,64.8 h26.4 v8.8 l-13.2,13.2 l-13.2,-13.2 Z" fill="#ff6ec7"/><path d="M60.8,91.2 h26.4 v-8.8 l-13.2,-13.2 l-13.2,13.2 Z" fill="#ff6ec7"/></g>
+        <text x="74.0" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="800" fill="#f5eeff">6yr</text>
+        <text x="74.0" y="150" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#c9b8e8">Experience</text>
+        <clipPath id="tcClip5"><rect x="0" y="0" width="148" height="180" rx="16"/></clipPath>
+        <g clip-path="url(#tcClip5)">
+          <rect x="-60" y="-20" width="40" height="220" fill="#ffffff" opacity="0.12" transform="rotate(20 74.0 90.0)">
+            <animate attributeName="x" values="-60;188" begin="2.0s" dur="3.2s" repeatCount="indefinite"/>
+          </rect>
+        </g>
+      </g>
+    </g>
+</svg>
