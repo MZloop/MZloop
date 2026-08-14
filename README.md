@@ -1,88 +1,127 @@
 <div align="center">
 
-<!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=7">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=1">
-  <img src="banner.svg?v=7" alt="Megha Mittal — Frontend Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img src="banner.svg?v=1" alt="MIYAZ — Lead Software Engineer & Flutter Specialist" width="100%">
+</picture>
+
+<br>
+
+<img src="lanyard.svg?v=1" alt="MIYAZ ID badge" width="220">
+
+<br><br>
+
+<a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/GitHub-MZLoop-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0b2e&color=7c3aed" alt="GitHub"></a>
+<a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/Email-mzffup%40gmail.com-ff6ec7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e" alt="Email"></a>
+<a href="https://github.com/MZLoop?tab=repositories"><img src="https://img.shields.io/badge/Flutter-Specialist-a855f7?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a0b2e" alt="Flutter"></a>
+
+<img src="https://komarev.com/ghpvc/?username=MZLoop&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile Views">
+
+</div>
+
+<br>
+
+## 🚀 About Me
+
+- 🔭 I'm currently **Lead Software Engineer**, architecting cross-platform mobile experiences with **Flutter & Dart**
+- 🧱 I obsess over **Clean Architecture**, **BLoC**/**Riverpod**, and code that scales past the demo
+- 📱 I bridge the gap between Flutter and native **Android (Kotlin)** / **iOS (Swift)** when the platform demands it
+- ⚙️ I automate everything I can with **GitHub Actions & CI/CD** — if I do it twice, it becomes a pipeline
+- 🔥 I ship apps backed by **Firebase**, **REST APIs**, and backends in **Python** & **Node.js**
+- 🎨 I care as much about **UI/UX and custom animations** as I do about the architecture underneath
+- 🌱 Currently exploring deeper **performance optimization** and native rendering pipelines
+- 💬 Ask me about Flutter, clean architecture, or squeezing 60fps out of a janky ListView
+
+<br>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Figma](https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="stats.svg?v=1" alt="MIYAZ's GitHub Stats" width="48%">
+<img src="langs.svg?v=1" alt="Most Used Languages" width="48%">
+
+<br><br>
+
+<img src="trophies.svg?v=1" alt="GitHub Trophies" width="90%">
+
+</div>
+
+> **Note:** `stats.svg`, `langs.svg` and `trophies.svg` are self-hosted local files (no rate-limited third-party card services), animated with SMIL + CSS. They're embedded as plain images here for maximum compatibility — `stats-light.svg`, `langs-light.svg` and `trophies-light.svg` are also included in this repo if you want to manually wire up `<picture>` dark/light switching for them yourself later. Swap in your real numbers any time by re-running the generator or editing the SVG values directly.
+
+<br>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MZLoop&theme=react-dark&hide_border=true&bg_color=150822&color=c9b8e8&line=ff6ec7&point=a855f7" alt="Contribution Activity Graph" width="90%">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/MZLoop/MZLoop/output/github-snake.svg" alt="GitHub contribution snake animation" width="90%">
 </picture>
 
 </div>
 
-<br/>
+> The contribution graph above pulls from a live third-party renderer, and the snake animation is generated daily by `github-snake.yml` in this repo (see below) and pushed to the `output` branch — no rate-limited card services required for anything else on this page.
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
+<br>
 
-<!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=2" alt="Megha Mittal ID badge" width="330"/>
-
-</td>
-<td width="62%" valign="middle">
-
-### 🌸 My Anime Creations
-
-| 🎌 Project | 💻 Tech | ⭐ |
-|:---|:---:|:---:|
-| [🍥 Naruto — Sage Mode](https://github.com/Meghamittal0920/Naruto-SageMode) | `HTML` `CSS` `JS` | 25 |
-| [⚔️ Zoro — King of Hell](https://github.com/Meghamittal0920/Zoro-King-of-hell) | `HTML` `CSS` `JS` | 9 |
-| [🌙 Demon Slayer — Yoriichi & Kokushibo](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | `HTML` `CSS` `JS` | 8 |
-| [👁️ JJK — Sukuna](https://github.com/Meghamittal0920/JJK-Sakuna) | `HTML` `CSS` `JS` | 8 |
-| [🏴‍☠️ One Piece 3D Website](https://github.com/Meghamittal0920/One-Piece-3D-Website) | `TypeScript` `Three.js` | 2 |
-
-<br/>
-
-> 💗 *"I don't watch anime, I code anime."*
-
-</td>
-</tr>
-</table>
-
-<br/>
+## 💼 Featured Projects
 
 <div align="center">
 
-### 📊 GitHub Stats & Graphs
+| Project | Description | Stack |
+|---|---|---|
+| **[Flow Finance](https://github.com/MZLoop)** | Cross-platform personal finance tracker with offline-first sync and animated insights dashboard | `Flutter` `BLoC` `Firebase` |
+| **[SnapOrder](https://github.com/MZLoop)** | On-demand delivery app with live tracking, native map integration on iOS & Android | `Flutter` `Riverpod` `Kotlin` `Swift` |
+| **[DevPulse CLI](https://github.com/MZLoop)** | Developer productivity CLI that syncs CI/CD pipeline health straight to your terminal | `Python` `GitHub Actions` |
+| **[ChatMesh](https://github.com/MZLoop)** | Real-time chat SDK with a clean-architecture core, built for easy adoption in any Flutter app | `Flutter` `Dart` `REST APIs` |
 
-<img src="./megha-stats.svg?v=2" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=2" alt="Top Languages" height="185"/>
+</div>
 
-<br/><br/>
+> Replace the placeholder links above with your real repositories — the table is intentionally simple markdown so it's easy to keep up to date by hand.
 
-<img src="https://streak-stats.demolab.com?user=Meghamittal0920&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+<br>
 
-<br/><br/>
+## 🤝 Connect With Me
 
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Meghamittal0920&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<div align="center">
 
-<br/><br/>
+<a href="mailto:mzffup@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6ec7?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/MZLoop"><img src="https://img.shields.io/badge/-GitHub-a855f7?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
-<!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=2" alt="Trophies" width="95%"/>
+</div>
 
-<br/><br/>
+<br>
 
-### 🐍 Watch the snake eat my contributions
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Meghamittal0920/Meghamittal0920/output/github-snake-pink.svg" alt="Contribution snake"/>
-
-<br/><br/>
-
-### 📫 Let's Connect
-
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.instagram.com/codergirl.megha"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-<a href="https://www.youtube.com/@codergirlmegha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-*⭐️ Always learning, always building.* 💗
+<sub>Built with SMIL-animated SVGs — no JavaScript, renders natively on GitHub. ✨</sub>
 
 </div>
